@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F77D7794-2E20-E9B6-AEF2-2F4A11450836}") = "ReturnRainbowPony", "Assembly-CSharp.csproj", "{B82431AB-6362-05A2-CFE7-6C03F22C8BCE}"
+EndProject
+Project("{F77D7794-2E20-E9B6-AEF2-2F4A11450836}") = "ReturnRainbowPony", "Assembly-CSharp-Editor.csproj", "{5F837F42-AA76-7440-06F4-0E805AC641B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82431AB-6362-05A2-CFE7-6C03F22C8BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82431AB-6362-05A2-CFE7-6C03F22C8BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82431AB-6362-05A2-CFE7-6C03F22C8BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82431AB-6362-05A2-CFE7-6C03F22C8BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F837F42-AA76-7440-06F4-0E805AC641B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F837F42-AA76-7440-06F4-0E805AC641B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F837F42-AA76-7440-06F4-0E805AC641B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F837F42-AA76-7440-06F4-0E805AC641B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
